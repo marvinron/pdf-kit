@@ -27,7 +27,7 @@ public class PDFKit {
 
     /**
      * @description     导出pdf到文件
-     * @param fileName  输出PDF文件名
+     * @param fileName  模板文件（包含路径名和文件名）
      * @param data      模板所需要的数据
      *
      */
